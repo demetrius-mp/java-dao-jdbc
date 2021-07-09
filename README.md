@@ -1,14 +1,19 @@
-## Getting Started
+# java-dao-jdbc
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Propósito
+Projeto implementado para fortalecer meu conhecimento em Banco de dados, 
+e aprender o padrão de projeto DAO, utilizando a linguagem Java.
+___
+## Fonte da idéia
+A idéia e projeto são provenientes de um [curso de Java](https://www.udemy.com/course/java-curso-completo/), ministrado pelo professor
+Nélio Alves, na plataforma Udemy.
+___
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Tópicos
+- Entidades
+- Modelos de dados
+- Interfaces
+- Data Access Objects
+- DAO Factories
+- Consultas em SQL
+- Aplicação do singleton na conexão com o banco
